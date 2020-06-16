@@ -1,1 +1,7 @@
 1. 这是在master分支上添加的内容：创建了.txt和.js文件。（提交）
+
+2. 在未pull master分支内容之前进行修改。
+
+3. 本地master分支修改文件后commit提交。
+
+4. master 分支修改，cherry-pick 到 develop 分支
